@@ -1,5 +1,9 @@
 package model;
 
-public class Hello {
+public class Hello implements  {
+private String name;
 
+public Hello() {
+
+}
 }
